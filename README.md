@@ -14,15 +14,3 @@ Priscila Solís Barreto
 Desenvolver uma aplicação cliente-servidor usando sockets e HTTP, e analisar o comportamento dos pacotes capturados com o Wireshark.
 
 ---
-
-## 📁 Estrutura do Projeto
-Server/
-├── server.py
-├── index.html
-├── style.css
-└── script.js
-Client/
-└── client.py
-Docs/
-├── relatorio.pdf
-└── capturas-wireshark/
