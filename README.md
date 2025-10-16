@@ -1,2 +1,2 @@
 # redes-sockets
-Aplicação de cliente/servidor com Python Sockets para análise de tráfego com Wireshark.
+Desenvolvimento de aplicação Cliente/Servidor com Sockets e análise de protocolo com Wireshark
