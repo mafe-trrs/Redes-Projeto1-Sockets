@@ -1,3 +1,28 @@
-# PROJETO 1: Aplicação de Sockets e Análise de Protocolo
+# Projeto 1 – Redes de Computadores (UnB)
+## Jogo da Velha com Arquitetura Cliente-Servidor
 
-Desenvolvimento de aplicação Cliente/Servidor com Sockets e análise de protocolo com Wireshark
+### 👩‍🏫 Professora
+Priscila Solís Barreto
+
+### 👩‍💻 Integrantes
+- Maria Fernanda – 221021527
+- (demais integrantes)
+
+---
+
+## 🎯 Objetivo
+Desenvolver uma aplicação cliente-servidor usando sockets e HTTP, e analisar o comportamento dos pacotes capturados com o Wireshark.
+
+---
+
+## 📁 Estrutura do Projeto
+Server/
+├── server.py
+├── index.html
+├── style.css
+└── script.js
+Client/
+└── client.py
+Docs/
+├── relatorio.pdf
+└── capturas-wireshark/
