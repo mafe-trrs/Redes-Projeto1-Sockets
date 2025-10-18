@@ -1,5 +1,5 @@
 # Projeto 1 – Redes de Computadores (UnB)
-## Jogo da Velha com Arquitetura Cliente-Servidor
+## Chat de Bate-Papo com Arquitetura Cliente-Servidor
 
 ### 👩‍🏫 Professora
 Priscila Solís Barreto
@@ -11,6 +11,6 @@ Priscila Solís Barreto
 ---
 
 ## 🎯 Objetivo
-Desenvolver uma aplicação cliente-servidor usando sockets e HTTP, e analisar o comportamento dos pacotes capturados com o Wireshark.
+Desenvolver uma aplicação cliente-servidor usando sockets e analisar o comportamento dos pacotes capturados com o Wireshark.
 
 ---
